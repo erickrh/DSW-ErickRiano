@@ -71,4 +71,5 @@
         <img src="Images/Mockup.png" alt="Mockup" width="50%">
     </section>
 </body>
+
 </html>
